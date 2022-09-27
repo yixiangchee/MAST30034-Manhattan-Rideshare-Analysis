@@ -11,7 +11,7 @@
 
 **Python Version:** 3.8.2
 
-**Models used:** PySpark
+**Framework used:** PySpark
 
 [**Report**](https://www.overleaf.com/read/wcqtyychqkkw)
 
