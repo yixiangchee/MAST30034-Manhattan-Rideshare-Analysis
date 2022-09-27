@@ -1,7 +1,7 @@
 # MAST30034 Project 1
 ## Quantitative Analysis of Rideshare Services in Post-Covid Manhattan 🏙
 
-- Score: 29/30
+**Score:** 29/30
 
 **Research Goal:** Study the relationship between **rideshare pickup** and **rent** in Manhattan, then use the results to build models for demand forecasting.
 
