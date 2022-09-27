@@ -1,8 +1,6 @@
 # MAST30034 Project 1
 ## Quantitative Analysis of Rideshare Services in Post-Covid Manhattan 🏙
 
-- Name: Yi Xiang Chee
-- Student ID: 1165917
 - Score: 29/30
 
 **Research Goal:** Study the relationship between **rideshare pickup** and **rent** in Manhattan, then use the results to build models for demand forecasting.
@@ -12,6 +10,8 @@
 **Models used:** [RandomForestRegressor](https://spark.apache.org/docs/latest/api/python/reference/api/pyspark.ml.regression.RandomForestRegressor.html), [LinearRegression](https://spark.apache.org/docs/latest/api/python/reference/api/pyspark.ml.regression.LinearRegression.html)
 
 **Python Version:** 3.8.2
+
+**Models used:** PySpark
 
 [**Report**](https://www.overleaf.com/read/wcqtyychqkkw)
 
